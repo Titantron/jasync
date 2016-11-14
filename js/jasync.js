@@ -1,4 +1,5 @@
-//Codes by Jasper in colaboration with the Andela Nairaland Group   
+//Codes by Jasper in colaboration with the Andela Nairaland Group
+//Codes Status: Incomplete
 
 var w=window;
     var Jasync=function(){
