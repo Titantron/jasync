@@ -1,4 +1,6 @@
-    var w=window;
+//Codes by Jasper in colaboration with the Andela Nairaland Group   
+
+var w=window;
     var Jasync=function(){
         this.xhr=xhr=new XMLHttpRequest();
         this.readyStateCodes={
