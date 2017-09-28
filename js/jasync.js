@@ -1,5 +1,5 @@
-//Codes by Jasper in colaboration with the Andela Nairaland Group
-//Codes Status: Incomplete
+//Codes by Jasper Zion in colaboration with the Andela Nairaland Group
+//Codes Status: Work in progress.. 
 
 var w=window;
     var Jasync=function(){
